@@ -1,9 +1,7 @@
 <a href="">
 
 # MERN Full Stack Web App
-**Projects Demonstration**
 
- 
 # Table of contents
 1. [Introduction](#intro)   
 2. [Install Dependencies](#install)
@@ -11,8 +9,12 @@
 4. [Project Demonstration](#demo)
 
 #### Project Introduction <a name="intro"></a>
+A data representation and querying application based on the MERN technologies. 
+A full stack task organizing app has been developed from design to completion of a project. 
+CRUD operation has performed on server side and routing has done on client side. Both client and server structured in standard, organized and consistent fashion.
+
 - Technologies
-  * The following technologies used in the projects
+  * The following technologies used in this projects
     * **Database (MongoDB Atlas Cluster)**
     * **Backend (ExpressJS)**
     * **Frontend (React)**
@@ -44,15 +46,15 @@
     
 
 #### Project Demonstration <a name="demo"></a>
-- App demo
+- Demo  - Task Organizing Web Application
      * **Front end React**
-        * (screenshot)[https://i.imgur.com/Exag3Bo.png]
-        * (screenshot2)[https://i.imgur.com/nIzIPAq.png]
+        * (Show List of Tasks)[https://i.imgur.com/Exag3Bo.png]
+        * (Create a New Task)[https://i.imgur.com/nIzIPAq.png]
 
      * **Backend ExpressJS**
-        * (screenshot)[https://i.imgur.com/XMjXCGK.png]
+        * (Show Data in JSON Format)[https://i.imgur.com/XMjXCGK.png]
 
     * **MongoDB Atlas**
-        * (screenshot)[https://i.imgur.com/NDBTWHx.png]
+        * (Cloud Database MongoDB Atlas Cluster)[https://i.imgur.com/NDBTWHx.png]
         
         
